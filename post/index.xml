@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://jmd23.github.io/Portfolio_3/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://jmd23.github.io/Portfolio_3/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netflix-Lite</title>
+      <link>https://jmd23.github.io/Portfolio_3/post/project-2/</link>
+      <pubDate>Tue, 11 Jan 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://jmd23.github.io/Portfolio_3/post/project-2/</guid>
+      <description>Built an app using ReactJS, CSS, and HTML. Modeled the frontend after Netflix, including rows of movie posters (first image below), a large picture at the top of the page, and the ability to scroll. Uses the TMDB movies API to get data for the app, which is hosted by Firebase. This project also included a data science component, as I built a movie recommendation system Jupyter Notebook using Python and Scikit-Learn, which can be navigated to from the main page.</description>
+    </item>
+    
+    <item>
+      <title>Sports Analytics: Baseball</title>
+      <link>https://jmd23.github.io/Portfolio_3/post/project-1/</link>
+      <pubDate>Thu, 23 Dec 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://jmd23.github.io/Portfolio_3/post/project-1/</guid>
+      <description>This was a semester-long project for the Cornell Sports Analytics club. We looked at how external factors (crowd speed, temperature, attendance), affect intrinsic components of a baseball game (Runs Scored, Duration, etc&amp;hellip;), using data science techniques and Python libraries, such as Pandas and MatPlotLib, to produce visualizations and find correlations. I also implemented machine learning models to predict the winner of a game, with some reaching 80% accuracy (first image). The work was presented at the club&amp;rsquo;s final symposium.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effect of Surfactants on Cloud Formation Activity</title>
+      <link>https://jmd23.github.io/Portfolio_3/post/project-3/</link>
+      <pubDate>Fri, 13 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jmd23.github.io/Portfolio_3/post/project-3/</guid>
+      <description>This was a project I completed during my research internship at Brookhaven National Lab, for the Regeneron STS competition. It was done in collaboration with Dr. Laura Fierce, and involved a mix of environmental science and data analysis aspects. In short, I wrote python scripts to determine what effect surfactants have on the formation of cloud nuclei, as aerosol-cloud interactions are currently one of the least understood aspects of climate modeling.</description>
+    </item>
+    
+  </channel>
+</rss>
