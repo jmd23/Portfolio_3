@@ -28,7 +28,7 @@
     <item>
       <title>Analyzing the Effect of Surfactants on Cloud Formation Activity</title>
       <link>https://jmd23.github.io/Portfolio_3/post/project-3/</link>
-      <pubDate>Fri, 13 Nov 2020 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 14 May 2023 10:58:08 -0400</pubDate>
       
       <guid>https://jmd23.github.io/Portfolio_3/post/project-3/</guid>
       <description>This was a project I completed during my research internship at Brookhaven National Lab, for the Regeneron STS competition. It was done in collaboration with Dr. Laura Fierce, and involved a mix of environmental science and data analysis aspects. In short, I wrote python scripts to determine what effect surfactants have on the formation of cloud nuclei, as aerosol-cloud interactions are currently one of the least understood aspects of climate modeling.</description>
